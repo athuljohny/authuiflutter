@@ -1,16 +1,7 @@
 # authuiflutter
+[oooo.webm](https://user-images.githubusercontent.com/113675481/203848098-12025374-6fbb-4339-899e-2c872267633f.webm)
+# images 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1669312588](https://user-images.githubusercontent.com/113675481/203848332-4bd62c01-a6f9-4ed6-8d99-346f7d052d56.png)
+![Screenshot_1669314668](https://user-images.githubusercontent.com/113675481/203848340-67a7ad57-ad35-494a-b7fd-59ff3f76e9b0.png)
+![Screenshot_1669314665](https://user-images.githubusercontent.com/113675481/203848348-23ed7e59-d527-4326-bd4e-880ffc1bfba2.png)
